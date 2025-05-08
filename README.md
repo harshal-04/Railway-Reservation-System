@@ -23,10 +23,11 @@ Make sure you have the following installed on your machine:
 
 1. **Clone the Repository:**
    ```bash
+   https://github.com/harshal-04/Railway-Reservation-System.git
 
 ## How to run
 
-- Copy the GitHub URL of the repository to the clipboard 
+- Copy the GitHub URL of the repository to the clipboard https://github.com/harshal-04/Railway-Reservation-System.git
 - Open Eclipse and choose Import –> Projects from Git (with smart import)
   
 ![smart-import-1]
