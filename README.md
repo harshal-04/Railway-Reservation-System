@@ -41,5 +41,4 @@ Make sure you have the following installed on your machine:
 
 ## Thank You
 
-We appreciate your interest in our project and hope that you find it useful. Your contributions and adherence to the project's license are valuable to us.
 
