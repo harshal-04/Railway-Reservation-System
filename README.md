@@ -26,7 +26,7 @@ Make sure you have the following installed on your machine:
 
 ## How to run
 
-- Copy the GitHub URL of the repository to the clipboard (https://github.com/John12356/Railway-Reservation-System-JAVA-console-App)
+- Copy the GitHub URL of the repository to the clipboard 
 - Open Eclipse and choose Import –> Projects from Git (with smart import)
   
 ![smart-import-1]
